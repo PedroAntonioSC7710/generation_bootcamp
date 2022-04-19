@@ -1,0 +1,32 @@
+.formulario{
+    border: 5px solid rgba(12, 196, 220, 0.721);
+    padding: 10px;
+    background-color: rgba(0, 255, 255, 0.502);
+    border-radius: 10px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.texto{
+    text-align: center;
+}
+
+.nombreColor{
+    background-color: rgba(17, 213, 239, 0.753);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.btn-enviar{
+    background-color: darkcyan;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.acomodoLabel{
+    display: inline-block;
+    width: 100px;
+}
