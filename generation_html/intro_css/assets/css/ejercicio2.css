@@ -1,0 +1,15 @@
+.forma{
+    width: 700px;
+    height: 300px;
+    font-size: 20px;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+}
+.color{
+    background-color: rgb(45,134,82);
+}
+
+.text{
+    text-decoration-color: aqua;
+}

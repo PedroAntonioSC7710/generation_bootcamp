@@ -1,14 +1,46 @@
 .forma{
-    height: 100px;
-    width: 100px;
-}
+    height: 60px;
+    width: 200px;
+} 
 
 .borde{
-    border: 3px solid #ccc;
+    border: 3px solid rgb(159, 159, 159);
     /* border-top: 3px solid green;
     border-right: 3px solid red;
     border-bottom: 3px solid black;
     border-left: 3px solid blue; */
     text-align: center;
     line-height: 100px;
+}
+
+
+#cuadro1{
+    width: 200px;
+    height: 25px;
+    background-color: chartreuse;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.cuadro2{
+    width: 200px;
+    height: 25px;
+    background-color: chartreuse;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.cuadro3{
+    width: 200px;
+    height: 25px;
+    background-color: chartreuse;
+    border: 1px solid rgb(0, 0, 0);
+    /* border-radius: 10px; */
+}
+
+.cuadro4{
+    width: 200px;
+    height: 25px;
+    background-color: chartreuse;
+    border: 1px solid rgb(0, 0, 0);
+    /* border-radius: 10px; */
 }
