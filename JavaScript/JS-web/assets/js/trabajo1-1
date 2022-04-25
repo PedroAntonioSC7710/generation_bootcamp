@@ -1,0 +1,14 @@
+const $parrafo = document.getElementById("parrafo");
+addEventListener('keydown', function(e){
+    $parrafo.innerHTML += e.key;
+}
+);
+
+
+
+const $parrafo = document.getElementById("parrafo");
+addEventListener('keydown', function(e){
+    $parrafo.innerHTML += e.key;
+    console.log("keyCode: "+e.keyCode+" ||code: "+e.code+" ||key: "+e.key);
+}
+);
