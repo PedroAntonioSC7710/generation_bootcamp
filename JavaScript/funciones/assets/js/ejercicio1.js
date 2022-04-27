@@ -3,3 +3,5 @@ function invertirPalabra(palabra){
 }
 
 console.log(invertirPalabra('Anita lava la tina'));
+
+
