@@ -1,5 +1,5 @@
 const formulario = document.querySelector("form")
-console.log(formulario);
+/* console.log(formulario); */
 
 formulario.addEventListener("submit", (e)=>{
     e.preventDefault()
